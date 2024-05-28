@@ -1,2 +1,15 @@
-# PaperRecord
-PaperRecord
+**Paper reproduction code record！**
+
+## Computer vision
+
+|              Model               |                            Paper                             | Venue | Year |                             Code                             | Time       |
+| :------------------------------: | :----------------------------------------------------------: | :---: | :--: | :----------------------------------------------------------: | ---------- |
+|           InternImage            | [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions]([2211.05778 (arxiv.org)](https://arxiv.org/pdf/2211.05778)) | CVPR  | 2023 |      [Python](https://github.com/OpenGVLab/InternImage)      | 2024.05.22 |
+|      Deformable ConvNets v2      | [Deformable ConvNets v2: More Deformable, Better Results]([[1811.11168\] Deformable ConvNets v2: More Deformable, Better Results (arxiv.org)](https://arxiv.org/abs/1811.11168)) | CVPR  | 2023 | [Python]([[1811.11168\] Deformable ConvNets v2: More Deformable, Better Results (arxiv.org)](https://arxiv.org/abs/1811.11168)) | 2024.05.22 |
+|           EfficientDet           | [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070) | CVPR  | 2020 | [Python](https://github.com/google/automl/tree/master/efficientdet) | 2024.05.01 |
+| Large Scale Incremental Learning | [Large Scale Incremental Learning]([[1905.13260\] Large Scale Incremental Learning (arxiv.org)](https://arxiv.org/abs/1905.13260)) | CVPR  | 2020 | [Python](https://github.com/hbulpf/aipath/tree/master/dl/%E6%96%87%E7%8C%AE/%E5%A2%9E%E9%87%8F%E5%AD%A6%E4%B9%A0) | 2024.05.01 |
+|             RT-DETR              | [RT-DETR: DETRs Beat YOLOs on Real-time Object Detection]([lyuwenyu/RT-DETR: [CVPR 2024\] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥 (github.com)](https://github.com/lyuwenyu/RT-DETR)) | CVPR  | 2024 | [Python]([lyuwenyu/RT-DETR: [CVPR 2024\] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥 (github.com)](https://github.com/lyuwenyu/RT-DETR)) | 2024.04.24 |
+|              SAConv              | [Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution](https://openaccess.thecvf.com/content/ICCV2021/papers/Tang_SA-ConvONet_Sign-Agnostic_Optimization_of_Convolutional_Occupancy_Networks_ICCV_2021_paper.pdf) | ICCV  | 2022 | [Python]([tangjiapeng/SA-ConvONet: ICCV2021 Oral SA-ConvONet: Sign-Agnostic Optimization of Convolutional Occupancy Networks (github.com)](https://github.com/tangjiapeng/SA-ConvONet)) | 2024.04.24 |
+|             CondConv             | [CondConv: Conditionally Parameterized Convolutions for Efficient Inference]([[1904.04971\] CondConv: Conditionally Parameterized Convolutions for Efficient Inference (arxiv.org)](https://arxiv.org/abs/1904.04971)) | CVPR  | 2022 | [Python]([tpu/models/official/efficientnet/condconv at master · tensorflow/tpu (github.com)](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/condconv)) | 2024.03.25 |
+|              ODConv              | [Omni-Dimensional Dynamic Convolution \| OpenReview](https://openreview.net/forum?id=DmpCfq6Mg39) | ICLR  | 2022 | [Python](https://github.com/OSVAI/ODConv/blob/main/modules/odconv.py) | 2024.03.25 |
+
